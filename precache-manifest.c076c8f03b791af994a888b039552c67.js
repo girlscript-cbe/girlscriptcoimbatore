@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/girlscriptcoimbatore/css/about.6f94b936.css"
   },
   {
-    "revision": "5e30f3e18c5ad6ee31de",
+    "revision": "ab1244fb1d4698d77656",
     "url": "/girlscriptcoimbatore/css/app.413a3b99.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/girlscriptcoimbatore/img/logopng.6941852c.png"
   },
   {
-    "revision": "4ba46798e089d1da5ad70309dc0cfadd",
+    "revision": "4646fd10f033e48791f669dba708b981",
     "url": "/girlscriptcoimbatore/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/girlscriptcoimbatore/js/about.7eb2c6e6.js"
   },
   {
-    "revision": "5e30f3e18c5ad6ee31de",
-    "url": "/girlscriptcoimbatore/js/app.30faea72.js"
+    "revision": "ab1244fb1d4698d77656",
+    "url": "/girlscriptcoimbatore/js/app.fdadf6cc.js"
   },
   {
     "revision": "a5e8cb2572d7e5684dca",
