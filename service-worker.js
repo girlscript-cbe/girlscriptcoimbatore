@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.21f002816fa85334355a3071f9e8d929.js"
+  "/precache-manifest.e98c9a1d82b6509a3b513f5501aa1bcf.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "girlscript"});
